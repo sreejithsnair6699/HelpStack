@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043345748991",
+    "firebase_url": "https://helpstack-f16a9.firebaseio.com",
+    "project_id": "helpstack-f16a9",
+    "storage_bucket": "helpstack-f16a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043345748991:android:3502aae20496c401",
+        "android_client_info": {
+          "package_name": "centennial.ca.helpstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043345748991-jetti41n1mkgm81uo5frrr79u2blrtgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "centennial.ca.helpstack",
+            "certificate_hash": "078fe156f5dbf5d2688e8365155d47c2b05f40ce"
+          }
+        },
+        {
+          "client_id": "1043345748991-rc8609db5d97njidpgussrd954hgg8ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVnfWLGKBCIF8swhuHfqqYaPo81u1pNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043345748991-rc8609db5d97njidpgussrd954hgg8ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
